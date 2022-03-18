@@ -1,0 +1,36 @@
+
+# Asalamualaikum warahmatulohi wabarokatu 
+# di kesempatan kali ini saya akan membagikan secript terbaru
+# Sepam Whatsapp Unlimited nah ini kan yang kalian tunguh"
+# Sebelemu mengunakan Secript ini alangka baik nya kalian
+# Klik tombol Subscribe like dan Share vidio ini ke sosal media anda 
+# Karnah deggan mengklik Tombol Subscribe kalian orang pertama tau
+# Pas saya Upload vidio" Terbaru !!!
+# Show tanpa basa basi lagi langsung pake aja Secript nya
+
+# [ PERINTAH HARUS DI INSTALL ]
+
+# [1] pkg update
+
+# [2] pkg upgrade
+
+# [3] pkg install python
+
+# [4] pkg install python2
+
+# [5] pkg install wget
+
+# [6] pkg install pip
+
+# [7] pip install requests
+
+# [8] pip install mkdir
+
+# [9] pip install requests flask flask-cors flask-restful
+
+
+# [ GITHUB SPAM WHATSAPP ]
+
+# git clone https://github.com/kZtotorial/WA-SPAM-UNLIMITED
+
+# TERIMAKASIH SUDAH MAMPIR DI GITHUB KZ.TUTORIAL
